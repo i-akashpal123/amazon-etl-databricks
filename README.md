@@ -19,3 +19,7 @@ An end-to-end ETL pipeline built with PySpark on Databricks, processing fictiona
 
 ## 📁 Project Structure
 
+
+## 📊 Looker Studio Dashboard Assets
+- Dashboard-ready file: `data/amazon_sales_kaggle_dashboard_ready.csv`
+- Build guide: `LOOKER_STUDIO_DASHBOARD_GUIDE.md`
